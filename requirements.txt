@@ -1,4 +1,5 @@
 pandas
+numpy
 matplotlib
-sklearn
-warnings
+scikit-learn
+streamlit
