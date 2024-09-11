@@ -11,7 +11,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Title of the app
-st.title('Experience vs Salary Linear Regression')
+st.title('Machine Learning Linear Regression')
 
 # File uploader
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
