@@ -25,7 +25,6 @@ Experience: Years of experience
 Salary: Annual salary in USD
 Example data:
 
-
 Experience,Salary
 1,30000
 2,35000
