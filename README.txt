@@ -39,19 +39,6 @@ Experience,Salary
 10,75000
 How to Run
 
-Clone this repository to your local machine:
-
-
-git clone https://github.com/yourusername/your-repository.git
-Navigate to the project directory:
-
-
-cd your-repository
-Run the Streamlit app:
-
-
-streamlit run app.py
-Open your web browser and go to http://localhost:8501 to interact with the app.
 
 Features
 
@@ -66,13 +53,6 @@ Prediction: Allows users to input years of experience and get salary predictions
 Visualization: Uses matplotlib to display the regression line and data points.
 Contributing
 
-If you want to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements or bug fixes are welcome!
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
 
 Streamlit for creating interactive web apps.
 scikit-learn for machine learning tools.
