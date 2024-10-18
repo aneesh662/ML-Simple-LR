@@ -2,7 +2,7 @@
 # Experience vs Salary Machine Learning Simple Linear Regression 
 # Project Overview
 Check out the live demo of the project [here](https://ml-simple-lr.streamlit.app/).
-This project demonstrates a simple linear regression model using Streamlit to predict salaries based on years of experience. The model is trained on a dataset and provides real-time predictions and visualizations through a web application.
+#This project demonstrates a simple linear regression model using Streamlit to predict salaries based on years of experience. The model is trained on a dataset and provides real-time predictions and visualizations through a web application.
 
 # Objective: Predict salary based on years of experience using a simple linear regression model.
 # Libraries Used:
