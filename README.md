@@ -41,7 +41,7 @@ Code Explanation
 
 
 
-Streamlit for creating interactive web apps. upload the Experience Salary.csv from the  to link and Check out the live demo of the project [here](https://ml-simple-lr.streamlit.app/).
+Streamlit for creating interactive web apps. upload the Experience Salary.csv from the above file list,  link and Check out the live demo of the project [here](https://ml-simple-lr.streamlit.app/).
 scikit-learn for machine learning tools.
 matplotlib for plotting.
 
